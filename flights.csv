@@ -1,0 +1,5 @@
+Carrier,Status,Los Angeles,Phoenix,San Diego,San Francisco,Seattle
+Alaska,on_time,497,221,212,503,1841
+Alaska,delayed,62,12,20,102,305
+am west,on_time,694,4840,383,320,201
+am west,delayed,117,415,65,129,61
